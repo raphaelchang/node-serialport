@@ -10,7 +10,7 @@
   "binary": {
     "module_name": "serialport",
     "module_path": "build/{configuration}/",
-    "host": "https://github.com/voodootikigod/node-serialport/releases/download/3.1.2"
+    "host": ""
   },
   "main": "./lib/serialport",
   "repository": {
